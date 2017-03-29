@@ -1,8 +1,12 @@
 ﻿<?php require_once('includes/header.php'); ?>
 
 <br><br>		
-<a href="#" class="button-1">Заказать звонок</a>	
+
+<a href="#" class="button_view">Расписание</a>	
+<a href="#" class="button_view">Записаться на урок</a>	
+
 <br><br>	
+
 <h1>Пример заголовка</h1>
 <br><br>	
 <form action="#">
