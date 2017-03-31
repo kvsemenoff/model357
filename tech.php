@@ -7,7 +7,7 @@
 
 <br><br>	
 
-<h1>Пример заголовка</h1>
+<h2>Новости</h2>
 <br><br>	
 <form action="#">
 	<input type="text" value="" placeholder="Инпут тайп текст">		
